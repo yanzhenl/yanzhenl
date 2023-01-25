@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+:raising_hand:My name is Yanzhen Li. I am a graduate student at Northeastern University.
+
+I am interested in doing a full stack project, because by doing this, I know how to write a website from 0 and I can learn a lot from this. 
+
+I love travelling and finding some delicious restaurants. I think new things can give me some inspiration on life and stimulate me to keep moving forward. If you have same hobbies with me, I am happy to make friends with you.
+
+:sunny:Hope you have a good day!
